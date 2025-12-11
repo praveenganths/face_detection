@@ -1,0 +1,36 @@
+# Ignore dataset folder (images of users)
+dataset/
+
+# Ignore trained face model
+face_model.yml
+labels.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+ENV/
+env/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore backups
+*.bak
+*.swp
+*.swo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
