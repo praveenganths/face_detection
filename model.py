@@ -40,7 +40,7 @@ def create_user_dataset():
         count += 1
 
         # Stop when 100 pictures are taken
-        if count >= 100:
+        if count >= 50:
             print("Captured 100 images successfully!")
             break
 
